@@ -1,0 +1,22 @@
+DesktopResponsive={"1009":{
+"pageLayer":{"w":1009,"h":567,"bgColor":"#ffffff","bgImage":"images/image0000.png","bgSize":"1009px 567px","bgRepeat":"no-repeat"}
+,
+"text91":{"x":568,"y":73,"w":408,"h":136,"txtscale":100,"bOffBottom":0,"bltArr":null}
+,
+"text92":{"x":577,"y":224,"w":408,"h":85,"txtscale":100,"bOffBottom":0,"bltArr":null}
+,
+"text93":{"x":671,"y":298,"w":203,"h":53,"txtscale":100,"bOffBottom":0}
+,
+"text94":{"x":668,"y":362,"w":224,"h":53,"txtscale":100,"bOffBottom":0}
+,
+"text95":{"x":685,"y":425,"w":193,"h":67,"txtscale":100,"bOffBottom":0}
+,
+"image97":{"x":0,"y":0,"w":551,"h":568,"bOffBottom":0,"i":"images/image0009.jpg"}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":['images/image0009.jpg','images/text91CircleBulletFont6.png','images/text91CircleBulletFont6.png','images/text92CircleBulletFont8.png']
+}}
